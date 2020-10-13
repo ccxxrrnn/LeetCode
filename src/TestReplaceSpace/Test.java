@@ -1,15 +1,15 @@
-package Test3;
+package TestReplaceSpace;
 
 /**
  * @Author XiongWei
  * @WriteTime 2020-10-11 13:50
  **/
-public class Test3 {
+public class Test {
     public static void main(String[] args) {
-        Test3 test3=new Test3();
+        Test test =new Test();
 //        String s = "We are happy.";
         String s="dasa  ";
-        System.out.println(test3.replaceSpace(s));
+        System.out.println(test.replaceSpace(s));
     }
 
     public String replaceSpace(String s) {

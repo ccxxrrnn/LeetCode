@@ -1,4 +1,4 @@
-package Test2;
+package TestFindNumberIn2DArray;
 
 /**
  * @Author XiongWei

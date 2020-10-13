@@ -1,17 +1,8 @@
-package Test4;
+package TestPrintReverse;
 
-import java.util.ArrayList;
+import Util.ListNode;
+
 import java.util.Stack;
-
-/**
- * @Author XiongWei
- * @WriteTime 2020-10-11 20:49
- **/
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
 
 public class PrintReverse {
 

@@ -1,22 +1,19 @@
-package Test7;
-
-import java.util.ArrayList;
-import java.util.List;
+package TestExist;
 
 /**
  * @Author XiongWei
  * @WriteTime 2020-10-12 10:58
  **/
-public class Test7 {
+public class Test {
 
     public static void main(String[] args) {
-        Test7 test7=new Test7();
+        Test test =new Test();
         char[][] chars=new char[][]{
                 {'a','b','c','e'},
                 {'s','f','c','s'},
                 {'a','d','e','e'}};
         String word= "abcecba";
-        System.out.println( test7.exist(chars,word));
+        System.out.println( test.exist(chars,word));
     }
 
     public boolean exist(char[][] board, String word)  {

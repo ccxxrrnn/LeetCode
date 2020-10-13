@@ -1,22 +1,17 @@
-package Test5;
+package TestTreeNode;
+
+import Util.TreeNode;
 
 /**
  * @Author XiongWei
  * @WriteTime 2020-10-11 21:15
  **/
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
- }
-
-public class Test5 {
+public class Test {
     public static void main(String[] args) {
-        Test5 test5=new Test5();
+        Test test =new Test();
         int[] preorder =new int[]{3,9,20,15,7};//前序
         int[] inorder  =new int[]{9,3,15,20,7};//中序
-        TreeNode treeNode=test5.buildTree(preorder,inorder);
+        TreeNode treeNode= test.buildTree(preorder,inorder);
         System.out.println(treeNode.right.right.val);
     }
     int prP=0;

@@ -1,4 +1,4 @@
-package Test6;
+package TestCQueue;
 
 import java.util.EmptyStackException;
 import java.util.Stack;
@@ -38,7 +38,7 @@ class CQueue {
         return -1;
     }
 }
-public class Test6 {
+public class Test {
     public static void main(String[] args) {
         CQueue cQueue=new CQueue();
         cQueue.appendTail(5);
