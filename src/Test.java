@@ -2,6 +2,8 @@ import Util.ListNode;
 import Util.TreeNode;
 
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * @Author XiongWei
@@ -10,19 +12,24 @@ import java.util.*;
 public class Test {
     public static void main(String[] args) {
         TestMethod testMethod = new TestMethod();
+//        String s="   asd";
+//        String regex="\\s+[+-]?\\w+";
+//        Pattern pattern=Pattern.compile(regex);
+//        Matcher matcher=pattern.matcher(s);
+//        System.out.println(matcher.regionStart());
 //        int[][] ints=new int[][]{{1, 1, 1}, {1, 2, 2}, {1, 3, 2}, {2, 1}, {1, 4, 4}, {2, 2}};
 //        int i=3;
 //        testMethod.LRU(ints,i);
 //        List<Integer> list=new ArrayList<>();
 //        int[] arr1 = list.stream().mapToInt(Integer::intValue).toArray();
-        Test test = new Test();
-        ListNode listNode1=new ListNode(9);
-        listNode1.next=new ListNode(3);
-        listNode1.next.next=new ListNode(7);
-        ListNode listNode2=new ListNode(6);
-        listNode2.next=new ListNode(3);
-        ListNode listNode=test.addInList(listNode1,listNode2);
-        System.out.println(listNode.val);
+//        Test test = new Test();
+//        ListNode listNode1=new ListNode(9);
+//        listNode1.next=new ListNode(3);
+//        listNode1.next.next=new ListNode(7);
+//        ListNode listNode2=new ListNode(6);
+//        listNode2.next=new ListNode(3);
+//        ListNode listNode=test.addInList(listNode1,listNode2);
+//        System.out.println(listNode.val);
         //        testMethod.callableTest1();  //创建线程用 callable + FutureTask
     }
 
