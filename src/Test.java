@@ -1,6 +1,8 @@
 import Util.ListNode;
 import Util.TreeNode;
 
+import java.io.ObjectOutputStream;
+import java.io.OutputStream;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -12,7 +14,8 @@ import java.util.regex.Pattern;
 public class Test {
     public static void main(String[] args) {
         TestMethod testMethod = new TestMethod();
-//        String s="   asd";
+        String s="   asd";
+//        ObjectOutputStream objectOutputStream=new ObjectOutputStream(s);
 //        String regex="\\s+[+-]?\\w+";
 //        Pattern pattern=Pattern.compile(regex);
 //        Matcher matcher=pattern.matcher(s);
