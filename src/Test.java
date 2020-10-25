@@ -1,11 +1,6 @@
 import Util.ListNode;
-import Util.TreeNode;
 
-import java.io.ObjectOutputStream;
-import java.io.OutputStream;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  * @Author XiongWei
@@ -14,6 +9,9 @@ import java.util.regex.Pattern;
 public class Test {
     public static void main(String[] args) {
         TestMethod testMethod = new TestMethod();
+
+        List<Integer> list=new ArrayList<>(Arrays.asList(1,2,3));
+        System.out.println(list.toString());
 //        Queue<String> queue=new ArrayDeque<>();
 //        List<Integer> list=new ArrayList<>();
 //        List<Integer> list1=new ArrayList<>();
@@ -24,7 +22,6 @@ public class Test {
 //        list.addAll(list1);
 //        list.addAll(list2);
 //        System.out.println(list.toString());
-
 //        ObjectOutputStream objectOutputStream=new ObjectOutputStream(s);
 //        String regex="\\s+[+-]?\\w+";
 //        Pattern pattern=Pattern.compile(regex);
@@ -43,6 +40,7 @@ public class Test {
 //        listNode2.next=new ListNode(3);
 //        ListNode listNode=test.addInList(listNode1,listNode2);
 //        System.out.println(listNode.val);
+//        String s="5525";
         //        testMethod.callableTest1();  //创建线程用 callable + FutureTask
     }
 
@@ -79,4 +77,6 @@ public class Test {
         System.out.println(resStack.toString());
         return  null;
     }
+
+
 }

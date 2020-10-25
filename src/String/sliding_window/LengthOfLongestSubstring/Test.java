@@ -1,4 +1,4 @@
-package Top100.LengthOfLongestSubstring;
+package String.sliding_window.LengthOfLongestSubstring;
 
 /**
  * @Author XiongWei
@@ -62,4 +62,20 @@ public class Test {
     /**
      * 双指针+滑动窗口
      */
+
+//    public static int lengthOfLongestSubstring(String s) {
+//        if (s.length()==0) return 0;
+//        HashMap<Character,Integer> map=new HashMap<>();
+//        int right=0;
+//        int result=0;
+//        for (int i=0;i<s.length();i++){
+//            if (map.containsKey(s.charAt(i))){
+//                right=Math.max(right, map.get(s.charAt(i))+1);
+//            }
+//            map.put(s.charAt(i),i);
+//            result=Math.max(result, i-right+1);
+//        }
+//        return result;
+//    }
+
 }

@@ -1,4 +1,4 @@
-package Top100.IsValid;
+package String.Stack.IsValid;
 
 import java.util.Stack;
 
