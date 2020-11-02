@@ -9,10 +9,6 @@ import java.util.*;
 public class Test {
     public static void main(String[] args) {
         TestMethod testMethod = new TestMethod();
-        Stack<Integer> stack=new Stack<>();
-        stack.push(-1);
-        stack.pop();
-        System.out.println(stack.peek());
 //        Queue<String> queue=new ArrayDeque<>();
 //        List<Integer> list=new ArrayList<>();
 //        List<Integer> list1=new ArrayList<>();
