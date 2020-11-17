@@ -5,6 +5,8 @@ package Top100.RemoveDuplicates;
  * @WriteTime 2020-10-25 16:08
  **/
 
+import java.util.Arrays;
+
 /**
  * 给定一个排序数组，你需要在 原地 删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。
  *
@@ -29,7 +31,8 @@ package Top100.RemoveDuplicates;
 public class Test {
     public static void main(String[] args) {
         Test t = new Test();
-        int i=t.removeDuplicates(new int[]{1,2,2});
+        int[] nums = new int[]{1,2,2,3,3,3};
+        int i=t.removeDuplicates(nums);
         System.out.println(i);
     }
 
