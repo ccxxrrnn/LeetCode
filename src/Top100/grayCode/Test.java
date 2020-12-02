@@ -11,7 +11,7 @@ import java.util.List;
 public class Test {
     public static void main(String[] args) {
         Test t = new Test();
-    }
+    };
 
     public List<Integer> grayCode(int n) {
         List<Integer> res = new ArrayList<Integer>(){{add(0);}};
