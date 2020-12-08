@@ -1,5 +1,8 @@
 package Util;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @Author xiongwei
  * @WriteTime 2020-11-20 9:48
@@ -18,4 +21,5 @@ public class PrintUtil {
         }
         System.out.println(listNode.val);
     }
+
 }
