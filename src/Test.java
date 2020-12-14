@@ -9,36 +9,13 @@ import java.util.*;
 public class Test {
     public static void main(String[] args) {
         TestMethod testMethod = new TestMethod();
-//        Queue<String> queue=new ArrayDeque<>();
-//        List<Integer> list=new ArrayList<>();
-//        List<Integer> list1=new ArrayList<>();
-//        List<Integer> list2=new ArrayList<>();
-//        list1.add(1);
-//        list1.add(3);
-//        list2.add(5);
-//        list.addAll(list1);
-//        list.addAll(list2);
-//        System.out.println(list.toString());
-//        ObjectOutputStream objectOutputStream=new ObjectOutputStream(s);
-//        String regex="\\s+[+-]?\\w+";
-//        Pattern pattern=Pattern.compile(regex);
-//        Matcher matcher=pattern.matcher(s);
-//        System.out.println(matcher.regionStart());
-//        int[][] ints=new int[][]{{1, 1, 1}, {1, 2, 2}, {1, 3, 2}, {2, 1}, {1, 4, 4}, {2, 2}};
-//        int i=3;
-//        testMethod.LRU(ints,i);
-//        List<Integer> list=new ArrayList<>();
-//        int[] arr1 = list.stream().mapToInt(Integer::intValue).toArray();
-//        Test test = new Test();
-//        ListNode listNode1=new ListNode(9);
-//        listNode1.next=new ListNode(3);
-//        listNode1.next.next=new ListNode(7);
-//        ListNode listNode2=new ListNode(6);
-//        listNode2.next=new ListNode(3);
-//        ListNode listNode=test.addInList(listNode1,listNode2);
-//        System.out.println(listNode.val);
-//        String s="5525";
-        //        testMethod.callableTest1();  //创建线程用 callable + FutureTask
+        int[] arr = new int[]{6,5,9,7,8,2,3,1,6,4,6,5};
+//        AllSort.bubbleSort(arr); //冒泡
+//        AllSort.selectionSort(arr); //选择
+//        AllSort.insertionSort(arr); //插入
+//        AllSort.shellSort(arr);
+        AllSort.heapSort(arr);
+        System.out.println(Arrays.toString(arr));
     }
 
     public ListNode addInList (ListNode head1, ListNode head2) {
