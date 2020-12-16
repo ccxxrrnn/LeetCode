@@ -45,11 +45,6 @@ import java.util.List;
  * s 仅由数字组成
  */
 public class Test {
-    public static void main(String[] args) {
-        Test t = new Test();
-        List<String> list=t.restoreIpAddresses("010010");
-        System.out.println(list.toString());
-    }
 
     private List<String> result;
     public List<String> restoreIpAddresses(String s) {

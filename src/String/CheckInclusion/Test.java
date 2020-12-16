@@ -1,4 +1,4 @@
-package String.sliding_window.CheckInclusion;
+package String.CheckInclusion;
 
 /**
  * @Author XiongWei
@@ -32,11 +32,7 @@ import java.util.Arrays;
 
  */
 public class Test {
-    public static void main(String[] args) {
-        Test t = new Test();
-        boolean b=t.checkInclusion("abc","babc");
-        System.out.println(b);
-    }
+
 // abc babc
     public  boolean checkInclusion(String s1, String s2) {
         int[] hash=new int[26];
