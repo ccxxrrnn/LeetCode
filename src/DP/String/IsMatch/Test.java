@@ -1,15 +1,13 @@
-package Sword_Offer.IsMatch;
+package DP.String.IsMatch;
 
 /**
  * @Author XiongWei
  * @WriteTime 2020-10-13 16:40
  **/
+
+//10. 正则表达式匹配
 public class Test {
-    public static void main(String[] args) {
-     Test test=new Test();
-     Boolean b =test.isMatch("aaa","a*aaaaaaa");
-        System.out.println(b);
-    }
+
     public boolean isMatch(String s, String p){
         int m=s.length();
         int n=p.length();
