@@ -32,6 +32,8 @@
 
 
 
+#### [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
+
 
 
 
@@ -66,6 +68,14 @@
 
 
 
+#### [1689. 十-二进制数的最少数目](https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
+
+
+
+#### [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
+
+
+
 
 
 
@@ -81,6 +91,10 @@
 
 
 #### [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)
+
+
+
+#### [1688. 比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament/)
 
 
 
@@ -143,6 +157,32 @@
 
 
 ## 贪心
+
+
+
+
+
+## 双指针
+
+---
+
+
+
+
+
+### 数组
+
+---
+
+
+
+#### [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
+
+
+
+#### [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+
+
 
 
 
