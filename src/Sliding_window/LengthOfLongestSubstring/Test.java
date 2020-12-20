@@ -1,4 +1,4 @@
-package sliding_window.LengthOfLongestSubstring;
+package Sliding_window.LengthOfLongestSubstring;
 
 /**
  * @Author XiongWei

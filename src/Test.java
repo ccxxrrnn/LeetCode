@@ -10,7 +10,7 @@ public class Test {
     public static void main(String[] args) {
         TestMethod testMethod = new TestMethod();
         int[] arr = new int[]{6,5,9,7,8,2,3,1,6,4,6,5};
-        System.out.println((3 & 1) == 1);
+//        System.out.println((3 & 1) == 1);
 //        AllSort.bubbleSort(arr); //冒泡
 //        AllSort.selectionSort(arr); //选择
 //        AllSort.insertionSort(arr); //插入

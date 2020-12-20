@@ -68,15 +68,15 @@
 
 
 
-#### [1689. 十-二进制数的最少数目](https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
-
-
-
 #### [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)
 
 
 
+#### [1689. 十-二进制数的最少数目](https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 
+
+
+#### [5629. 重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number/)
 
 
 
@@ -184,5 +184,58 @@
 
 
 
+#### [16. 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)
 
 
+
+
+
+### 链表
+
+---
+
+
+
+#### [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
+
+
+
+
+
+
+
+## DFS（深度优先）
+
+---
+
+
+
+### 字符串
+
+---
+
+
+
+#### [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
+
+
+
+
+
+## 栈
+
+---
+
+
+
+### 字符串
+
+---
+
+
+
+#### [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+
+
+
+#### [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)
