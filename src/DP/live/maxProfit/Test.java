@@ -1,4 +1,4 @@
-package Greedy.maxProfit;
+package DP.live.maxProfit;
 
 /**
  * @Author xiongwei

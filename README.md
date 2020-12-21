@@ -52,6 +52,10 @@
 
 
 
+#### [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+
+
+
 
 
 ### 字符串
@@ -140,6 +144,16 @@
 
 
 
+### 数组
+
+---
+
+
+
+#### [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+
+
+
 
 
 ### 生活
@@ -157,6 +171,16 @@
 
 
 ## 贪心
+
+
+
+### 数字
+
+---
+
+
+
+#### [738. 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)
 
 
 
@@ -219,6 +243,16 @@
 #### [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
 
+
+
+
+### 数字
+
+---
+
+
+
+#### [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 
 
 
