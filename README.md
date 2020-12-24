@@ -32,6 +32,10 @@
 
 
 
+#### [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+
+
+
 #### [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)
 
 
@@ -181,6 +185,16 @@
 
 
 #### [738. 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/)
+
+
+
+### 数组
+
+---
+
+
+
+#### [135. 分发糖果](https://leetcode-cn.com/problems/candy/)
 
 
 
