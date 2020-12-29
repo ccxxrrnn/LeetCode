@@ -174,6 +174,10 @@
 
 
 
+#### [188. 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)
+
+
+
 #### [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
 
@@ -203,6 +207,10 @@
 
 
 #### [135. 分发糖果](https://leetcode-cn.com/problems/candy/)
+
+
+
+#### [330. 按要求补齐数组](https://leetcode-cn.com/problems/patching-array/)
 
 
 
