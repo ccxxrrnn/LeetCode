@@ -112,6 +112,18 @@
 
 
 
+### 数组
+
+---
+
+
+
+#### [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)
+
+
+
+
+
 
 
 ## 滑动窗口
@@ -181,6 +193,16 @@
 #### [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
 
+
+
+
+### 数字
+
+----
+
+
+
+#### [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 
 
 
@@ -335,6 +357,14 @@
 
 
 
+
+### 数组
+
+---
+
+
+
+#### [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 
 
 
