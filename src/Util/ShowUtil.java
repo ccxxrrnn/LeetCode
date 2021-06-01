@@ -8,7 +8,9 @@ package Util;
 public class ShowUtil {
 
     public  static void showListNode(ListNode listNode){
-        if (listNode == null) System.out.println("null");
+        if (listNode == null) {
+            System.out.println("null");
+        }
         while (listNode != null){
             System.out.println(listNode.val);
             listNode = listNode.next;

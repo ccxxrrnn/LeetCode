@@ -18,6 +18,8 @@
 
 
 
+#### [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
+
 
 
 
@@ -162,6 +164,10 @@
 
 
 
+#### [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)
+
+
+
 
 
 ### 数组
@@ -284,6 +290,8 @@
 
 
 
+#### [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)
+
 
 
 
@@ -379,3 +387,41 @@
 
 
 #### [1046. 最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/)
+
+
+
+
+
+## 设计
+
+
+
+#### [1603. 设计停车系统](https://leetcode-cn.com/problems/design-parking-system/)
+
+
+
+#### [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+
+
+
+## 分治
+
+
+
+### 数组
+
+
+
+
+
+
+
+## 数学
+
+
+
+### 数组
+
+
+
+#### [1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)

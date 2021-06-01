@@ -24,8 +24,12 @@ public class Test {
         Stack<Integer> stack1=new Stack<>();
         Stack<Integer> stack2=new Stack<>();
         Stack<Integer> resStack=new Stack<>();
-        if(head1==null) return head2;
-        if(head2==null) return head1;
+        if(head1==null) {
+            return head2;
+        }
+        if(head2==null) {
+            return head1;
+        }
         while(head1!=null){
             stack1.push(head1.val);
             head1=head1.next;
